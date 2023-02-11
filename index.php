@@ -110,6 +110,9 @@
         <?php
 
         /*
+
+        ========== MYSQLI ==========
+
         mysqli_report(MYSQLI_REPORT_STRICT);
 
         try {
